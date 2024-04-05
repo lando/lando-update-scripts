@@ -5,3 +5,8 @@ There are a lot of Lando plugins. Sometimes we need to make small changes to all
 As we gain more independent maintainers for them this should be less necessary and hopefully obsolete.
 
 Effectively these are only useful to a Lando org admin.
+
+## Maintainers
+
+* [@pirog](https://github.com/pirog)
+* [@reynoldsalec](https://github.com/reynoldsalec)
